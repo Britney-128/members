@@ -17,5 +17,8 @@ format:
     css: styles.css
     toc: true
 
+project:
+  type: website
+  output-dir: docs  # 将输出目录指定为 docs，GitHub Pages 默认识别此目录
 
 
